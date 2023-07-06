@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cf60a330b2a4f14aac7fff8a9562e4d, type: 3}
+  m_Name: MiniGamesPool
+  m_EditorClassIdentifier: 
+  householdMiniGames:
+  - {fileID: 1342847817287052992, guid: 7179bf2e7d03a394c9e9364dafdd37e8, type: 3}
+  - {fileID: 1143096951249253487, guid: d938b0f363ae8e440b813e9ae28b4669, type: 3}
+  - {fileID: 8992871794095753339, guid: 78045048f99b9104bb10727bcb894e7c, type: 3}
+  - {fileID: 5919780641787800924, guid: 691837561078a8b45839efb1815227e5, type: 3}
+  firstStageMiniGames:
+  - {fileID: 3734154844648703427, guid: 739cf0aaab8b1a24c838a1b53865c444, type: 3}
+  - {fileID: 5567787782805629057, guid: bb1d2aed962d8af4e919c982fca21da7, type: 3}
+  - {fileID: 4641779743605562948, guid: ba6c29d67e09cb843a0f7308968078c3, type: 3}
+  - {fileID: 3551089044127157342, guid: 1ee32f3e0befa95478317093b8d83f55, type: 3}
+  secondStageMiniGames: []
+  thirdStageMiniGames: []
